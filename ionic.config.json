@@ -1,0 +1,7 @@
+{
+  "name": "plantasia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
